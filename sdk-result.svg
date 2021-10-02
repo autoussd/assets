@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 400 464"
+   x="0px"
+   y="0px"
+   version="1.1"
+   id="svg36"
+   sodipodi:docname="sdk-result.svg"
+   width="400"
+   height="464"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata42">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>report-customization-Chart-data</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs40" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     id="namedview38"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.75718575"
+     inkscape:cx="347.03205"
+     inkscape:cy="352.76364"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg36" />
+  <title
+     id="title2">report-customization-Chart-data</title>
+  <path
+     d="m 186.681,335.233 -13.18,-4.687 -2.843,-6.863 6.005,-12.634 a 8,8 0 0 0 -1.568,-9.092 L 162.043,288.9 a 8,8 0 0 0 -9.092,-1.568 l -12.634,6 -6.863,-2.843 -4.687,-13.18 A 8,8 0 0 0 121.229,272 h -18.458 a 8,8 0 0 0 -7.538,5.319 l -4.687,13.18 -6.863,2.843 -12.634,-6 a 8,8 0 0 0 -9.092,1.568 l -13.052,13.047 a 8,8 0 0 0 -1.568,9.092 l 6,12.634 -2.837,6.863 -13.18,4.687 A 8,8 0 0 0 32,342.771 v 18.458 a 8,8 0 0 0 5.319,7.538 l 13.18,4.687 2.843,6.863 -6,12.634 a 8,8 0 0 0 1.568,9.092 L 61.957,415.1 a 8,8 0 0 0 9.092,1.568 l 12.634,-6 6.863,2.843 4.687,13.18 a 8,8 0 0 0 7.538,5.309 h 18.458 a 8,8 0 0 0 7.538,-5.319 l 4.687,-13.18 6.863,-2.843 12.634,6 a 8,8 0 0 0 9.092,-1.568 L 175.1,402.043 a 8,8 0 0 0 1.568,-9.092 l -6.005,-12.634 2.843,-6.863 13.18,-4.687 A 8,8 0 0 0 192,361.229 v -18.458 a 8,8 0 0 0 -5.319,-7.538 z M 176,355.584 l -11.21,3.985 a 8,8 0 0 0 -4.71,4.476 l -5.565,13.435 a 8,8 0 0 0 0.166,6.5 l 5.107,10.745 -5.067,5.067 -10.745,-5.107 a 8,8 0 0 0 -6.5,-0.166 l -13.435,5.565 a 8,8 0 0 0 -4.476,4.71 L 115.584,416 h -7.168 l -3.985,-11.21 a 8,8 0 0 0 -4.476,-4.71 L 86.52,394.515 a 7.992,7.992 0 0 0 -6.5,0.166 l -10.745,5.107 -5.067,-5.067 5.107,-10.745 a 8,8 0 0 0 0.166,-6.5 l -5.565,-13.435 a 8,8 0 0 0 -4.71,-4.476 L 48,355.584 v -7.168 l 11.21,-3.985 a 8,8 0 0 0 4.71,-4.476 l 5.565,-13.435 a 8,8 0 0 0 -0.166,-6.5 l -5.107,-10.745 5.067,-5.067 10.745,5.107 a 8,8 0 0 0 6.5,0.166 l 13.435,-5.565 a 8,8 0 0 0 4.476,-4.71 L 108.416,288 h 7.168 l 3.985,11.21 a 8,8 0 0 0 4.476,4.71 l 13.435,5.565 a 8,8 0 0 0 6.5,-0.166 l 10.745,-5.107 5.067,5.067 -5.107,10.745 a 8,8 0 0 0 -0.166,6.5 l 5.565,13.435 a 8,8 0 0 0 4.71,4.476 L 176,348.416 Z"
+     id="path4"
+     style="fill:#cacaca;fill-opacity:1" />
+  <path
+     d="M 112,317.474 A 34.526,34.526 0 1 0 146.526,352 34.565,34.565 0 0 0 112,317.474 Z m 0,53.052 A 18.526,18.526 0 1 1 130.526,352 18.546,18.546 0 0 1 112,370.526 Z"
+     id="path6"
+     style="fill:#cacaca;fill-opacity:1" />
+  <path
+     d="M 192,240 H 32 A 32.036,32.036 0 0 0 0,272 v 160 a 32.036,32.036 0 0 0 32,32 h 160 a 32.036,32.036 0 0 0 32,-32 V 272 a 32.036,32.036 0 0 0 -32,-32 z m 16,192 a 16.019,16.019 0 0 1 -16,16 H 32 A 16.019,16.019 0 0 1 16,432 V 272 a 16.019,16.019 0 0 1 16,-16 h 160 a 16.019,16.019 0 0 1 16,16 z"
+     id="path8"
+     style="fill:#cacaca;fill-opacity:1" />
+  <path
+     d="M 368,392 V 8 A 8,8 0 0 0 360,0 H 136 a 8,8 0 0 0 -5.657,2.343 l -48,48 A 8,8 0 0 0 80,56 V 224 H 96 V 64 h 40 a 8,8 0 0 0 8,-8 V 16 H 352 V 384 H 240 v 16 h 120 a 8,8 0 0 0 8,-8 z M 107.313,48 128,27.313 V 48 Z"
+     id="path10"
+     style="fill:#cacaca;fill-opacity:1" />
+  <path
+     d="m 234.343,117.657 a 8,8 0 0 0 11.314,0 l 72,-72 L 306.343,34.343 240,100.687 197.657,58.343 a 8,8 0 0 0 -11.314,0 l -64,64 11.314,11.314 L 192,75.313 Z"
+     id="path12"
+     style="fill:#cacaca;fill-opacity:1" />
+  <polygon
+     points="360,120 344,120 344,208 328,208 328,152 312,152 312,208 296,208 296,168 280,168 280,208 264,208 264,152 248,152 248,208 232,208 232,144 216,144 216,208 200,208 200,176 184,176 184,208 168,208 168,224 376,224 376,208 360,208 "
+     id="polygon14"
+     transform="translate(-48,-32)"
+     style="fill:#cacaca;fill-opacity:1" />
+  <rect
+     x="256"
+     y="216"
+     width="16"
+     height="16"
+     id="rect16"
+     style="fill:#cacaca;fill-opacity:1" />
+  <rect
+     x="288"
+     y="216"
+     width="40"
+     height="16"
+     id="rect18"
+     style="fill:#cacaca;fill-opacity:1" />
+  <rect
+     x="240"
+     y="248"
+     width="88"
+     height="16"
+     id="rect20"
+     style="fill:#cacaca;fill-opacity:1" />
+  <rect
+     x="240"
+     y="280"
+     width="88"
+     height="16"
+     id="rect22"
+     style="fill:#cacaca;fill-opacity:1" />
+  <rect
+     x="240"
+     y="312"
+     width="88"
+     height="16"
+     id="rect24"
+     style="fill:#cacaca;fill-opacity:1" />
+  <rect
+     x="240"
+     y="344"
+     width="72"
+     height="16"
+     id="rect26"
+     style="fill:#cacaca;fill-opacity:1" />
+  <path
+     d="M 384,416 H 240 v 16 h 152 a 8,8 0 0 0 8,-8 V 40 h -16 z"
+     id="path28"
+     style="fill:#cacaca;fill-opacity:1" />
+</svg>
